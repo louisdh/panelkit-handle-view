@@ -6,9 +6,7 @@
 //  Copyright © 2017 Silver Fox. All rights reserved.
 //
 
-import Foundation
 import UIKit
-import CoreGraphics
 
 @IBDesignable
 class CornerHandleView: UIView {
@@ -80,4 +78,3 @@ class CornerHandleView: UIView {
 	}
 	
 }
-
