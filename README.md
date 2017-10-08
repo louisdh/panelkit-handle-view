@@ -8,3 +8,5 @@ The objective was to find a corner radius for the handle that visually matches t
 ![](docs/example.png)
 
 The view properties are IBInspectables, so they can be edited from the storyboard to try out different results.
+
+The color of the IBDesignables is the view's tint color.
