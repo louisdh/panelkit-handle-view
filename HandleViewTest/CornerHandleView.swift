@@ -34,12 +34,6 @@ class CornerHandleView: UIView {
 		}
 	}
 	
-	var position: Int = 0 {
-		didSet {
-			setNeedsDisplay()
-		}
-	}
-	
 	override func draw(_ rect: CGRect) {
 		
 		guard let context = UIGraphicsGetCurrentContext() else {
